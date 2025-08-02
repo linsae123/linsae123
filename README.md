@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 안녕하세요! 반가워요!
 
-<!--
-**linsae123/linsae123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+전 린새라고 해요!
 
-Here are some ideas to get you started:
+- ✨ 디스코드 기반의 봇, 게임 시스템, 플러그인 등을 다루고 있어요.
+- 🖥️ Python 과 Javascript에 관심이 많으며 해보고 싶은 것들은 다 해볼려고 노력해요.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 현재 작업중인 프로젝트들
+- 🎲 디스코드 게임 봇: 가상 머니 + 경마, 홀짝 등의 게임 포함
+- 🧩 n0va 플러그인: 자동 도배, 접두사, 투표, 수정됨 x 수정하기, 통방 IP 가져오기, 통방 재연결하기, 한 유저에게 계속 이모지 달기
+
+### 💡 기술 스택
+- **Languages**: Python, Javascript
+
+### 📫 Contact
+- Discord: `_linsae`
