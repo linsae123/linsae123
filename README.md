@@ -5,3 +5,6 @@
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=linsae123&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linsae123&layout=compact&theme=radical)
