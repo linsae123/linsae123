@@ -1,18 +1,7 @@
-## 👋 안녕하세요! 반가워요!
-
-전 린새라고 해요!
-
-- ✨ 디스코드 기반의 봇, 게임 시스템, 플러그인 등을 다루고 있어요.
-- 🖥️ Python 과 Javascript에 관심이 많으며 해보고 싶은 것들은 다 해볼려고 노력해요.
-
----
-
-### 현재 작업중인 프로젝트들
-- 🎲 디스코드 게임 봇: 가상 머니 + 경마, 홀짝 등의 게임 포함
-- 🧩 플러그인: 자동 도배, 접두사, 투표, 수정됨 x 수정하기, 통방 IP 가져오기, 통방 재연결하기, 한 유저에게 계속 이모지 달기 등등
-
-### 💡 기술 스택
-- **Languages**: Python, Javascript
-
-### 📫 Contact
-- Discord: `_linsae`
+<p>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</p>
