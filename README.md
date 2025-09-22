@@ -7,4 +7,9 @@
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=linsae123&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linsae123&layout=compact&theme=radical)
+
+## 📫 Contact
+
+> Discord : `_linsae`
