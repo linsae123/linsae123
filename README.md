@@ -12,4 +12,4 @@
 
 ## 📫 Contact
 
-> Discord : `_linsae`
+> Discord : `_linsae` `81lz.`
